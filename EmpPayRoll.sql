@@ -11,7 +11,7 @@ Gender char(1),
 )
 
 insert into employee_payroll
-(EmpName,PhoneNumber,Department,Address,Gender)
+(EmpName,PhoneNumber,Address,Department,Gender)
 values('Shiva','8765435675','pune','Engg','M'),
 ('Swati','8888435675','nashik','D_Farm','F'),
 ('Vinnu','7865435675','pune','Engg','M'),
