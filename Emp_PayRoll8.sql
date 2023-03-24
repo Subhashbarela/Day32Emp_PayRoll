@@ -18,7 +18,7 @@ NetPay float
 )
 
 insert into employee_payroll
-(EmpName,PhoneNumber,Department,Address,Gender,BasicPay,Deduction,TaxablePay,Income_Tax,NetPay)
+(EmpName,PhoneNumber,Address,Department,Gender,BasicPay,Deduction,TaxablePay,Income_Tax,NetPay)
 values('Shiva','8765435675','pune','Engg','M',20000,2000,1000,18000,456000),
 ('Swati','8888435675','nashik','D_Farm','F',30000,2000,1000,18000,776000),
 ('Vinnu','7865435675','pune','Engg','M',430000,56000,5000,54300,456000),
